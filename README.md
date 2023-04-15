@@ -9,11 +9,15 @@
 Hace un año comencé formalmente mis estudios en programación y descubrí un mundo apasionante.
 Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 
+</br>
+
 
 ## Cosas que me gustan hacer en mi tiempo libre:
   - Jugar videojuegos. 🕹
   - Escuchar música e intentar aprender a tocarla. 🎸
   - Editar imágenes.  📸
+  
+  </br>
   
 ## Que me gusta estudiar:
   - SQL y base de datos.
@@ -22,9 +26,9 @@ Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 
 </br>
 
-## My Portfolio and Work 👀 -
-### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
-### 2.[Portfolio](https://sites.google.com/view/prathamesh-giri/home) ✨
+## Mi Portfolio y mi Linkedin 👀 -
+### 1.[Linkedin](https://www.linkedin.com/in/pablo-percara/) 👦 </br>
+### 2.[Portfolio] [portfolio-pablo-percara.vercel.app/](https://portfolio-pablo-percara.vercel.app/) ✨
 </br>
 
 ## Social Hangouts 💬 -
