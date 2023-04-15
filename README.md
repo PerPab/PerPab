@@ -1,7 +1,7 @@
 <h2>Hola a todos, Bienvenidos a mi repositorio...👋</h2>
 
 
-<img src="(https://user-images.githubusercontent.com/104698937/232254865-401a8042-c53d-4405-bee7-80412b9e2c16.png)" height="200" width="200" align="right"></img>
+<img src="https://user-images.githubusercontent.com/104698937/232254865-401a8042-c53d-4405-bee7-80412b9e2c16.png" height="200" width="200" align="right"></img>
 
 
 ## It's Prathamesh Giri here 👋
