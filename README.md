@@ -5,18 +5,20 @@
 <img src="https://user-images.githubusercontent.com/104698937/232254865-401a8042-c53d-4405-bee7-80412b9e2c16.png" height="200" width="200" align="right"></img>
 
 
-### Me llamo Pablo y soy Auxiliar en Programación 
+### Me llamo Pablo y soy Auxiliar en Programación 🙋‍♂️
 Hace un año comencé formalmente mis estudios en programación y descubrí un mundo apasionante.
-Actualmente estoy cursando la carrera de Desarrollo de Software.
+Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 
 
-## Cosas que me gustan hacer  -  
-  - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
-  - While Coding, Listening Music and developing useful code.⭐️
-  - Just loved to Explore new Tech Stacks.💻
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
-  - Always Willing to help (**Altruistic**). ✋ 
-
+## Cosas que me gustan hacer:
+  - Jugar videojuegos. 🕹
+  - Escuchar música e intentar aprender a tocarla. 🎸
+  - Editar imágenes.  📸
+  
+## Que me gusta estudiar:
+  - SQL y base de datos.
+  - Diseño y creación de UI.
+  - Muchos lenguajes... como Javascript, Python y C#..
 
 ## My GitHub Stats(Only Public Contributions 😑) -
   
