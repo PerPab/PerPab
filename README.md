@@ -41,4 +41,4 @@ Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 </br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerPabln&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerPab&layout=compact)
