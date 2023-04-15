@@ -9,11 +9,8 @@
 Hace un año comencé formalmente mis estudios en programación y descubrí un mundo apasionante.
 Actualmente estoy cursando la carrera de Desarrollo de Software.
 
-- ☀️ Learning and Developing Machine Learning based projects in Python.
-- ✍️ Writing tech blog posts over Internet.
-- ➿ Contributing Open Source Projects.
 
-## Things that I execute in free time ⚡ -  
+## Cosas que me gustan hacer  -  
   - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
   - While Coding, Listening Music and developing useful code.⭐️
   - Just loved to Explore new Tech Stacks.💻
