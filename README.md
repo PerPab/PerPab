@@ -1,11 +1,13 @@
-<h2>Hola a todos, Bienvenidos a mi repositorio...👋</h2>
+<h1>Hola a todos, Bienvenidos a mi repositorio...👋</h1>
+
 
 
 <img src="https://user-images.githubusercontent.com/104698937/232254865-401a8042-c53d-4405-bee7-80412b9e2c16.png" height="200" width="200" align="right"></img>
 
 
-## It's Prathamesh Giri here 👋
-I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Developer. I love experimenting with new technologies and building small projects.
+### Me llamo Pablo y soy Auxiliar en Programación 
+Hace un año comencé formalmente mis estudios en programación y descubrí un mundo apasionante.
+Actualmente estoy cursando la carrera de Desarrollo de Software.
 
 - ☀️ Learning and Developing Machine Learning based projects in Python.
 - ✍️ Writing tech blog posts over Internet.
