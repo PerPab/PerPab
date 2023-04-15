@@ -20,14 +20,21 @@ Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
   </br>
   
 ## Que me gusta estudiar:
-  - SQL y base de datos.
-  - Diseño y creación de UI.
-  - Muchos lenguajes... como Javascript, Python y C#..
+  - SQL y base de datos. 💽
+  - Diseño y creación de UI. 📲
+  - Muchos lenguajes... como Javascript, Python y C#.. 🖱
 
 </br>
 
-## Mi Portfolio y mi Linkedin 👀 -
+## Cuales son mis objetivos :
+  - Aprender más sobre aplicaciones de escritorio. ⌨
+  - Empezar a ganar experiencia como desarrollador. 👨‍💻
+  - Crear una aventura conversacional de aventura. 🎲
+
+</br>
+
+## Mi Portfolio y mi Linkedin 👇
 ### 1.[Linkedin](https://www.linkedin.com/in/pablo-percara/) 👦 </br>
-### 2.[Portfolio](https://portfolio-pablo-percara.vercel.app/) ✨
+### 2.[Portfolio](https://portfolio-pablo-percara.vercel.app/) 📖
 </br>
 
