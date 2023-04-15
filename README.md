@@ -10,7 +10,7 @@ Hace un año comencé formalmente mis estudios en programación y descubrí un m
 Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 
 
-## Cosas que me gustan hacer:
+## Cosas que me gustan hacer en mi tiempo libre:
   - Jugar videojuegos. 🕹
   - Escuchar música e intentar aprender a tocarla. 🎸
   - Editar imágenes.  📸
@@ -20,9 +20,6 @@ Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
   - Diseño y creación de UI.
   - Muchos lenguajes... como Javascript, Python y C#..
 
-## My GitHub Stats(Only Public Contributions 😑) -
-  
-  ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 </br>
 
 ## My Portfolio and Work 👀 -
