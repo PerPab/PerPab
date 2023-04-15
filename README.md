@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **PerPab/PerPab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...!
+
+[fondo](https://user-images.githubusercontent.com/104698937/232253546-3876a5c8-3b56-4d3c-be0b-847b1aa40773.jpg)
+
+
