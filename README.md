@@ -2,7 +2,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/104698937/232254865-401a8042-c53d-4405-bee7-80412b9e2c16.png" height="200" width="200" align="right"></img>
+<img src="https://user-images.githubusercontent.com/104698937/232256455-bca30fcb-529a-4401-9981-a917ef6c6999.png" height="200" width="200" align="right"></img>
 
 
 ### Me llamo Pablo y soy Auxiliar en Programación 🙋‍♂️
@@ -15,6 +15,7 @@ Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 ## Cosas que me gustan hacer en mi tiempo libre:
   - Jugar videojuegos. 🕹
   - Escuchar música e intentar aprender a tocarla. 🎸
+
   - Editar imágenes.  📸
   
   </br>
@@ -29,7 +30,7 @@ Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 ## Cuales son mis objetivos :
   - Aprender más sobre aplicaciones de escritorio. ⌨
   - Empezar a ganar experiencia como desarrollador. 👨‍💻
-  - Crear una aventura conversacional de aventura. 🎲
+  - Crear una aventura conversacional. 🎲
 
 </br>
 
