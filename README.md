@@ -6,7 +6,7 @@
 
 
 ### Me llamo Pablo y soy Auxiliar en Programación 🙋‍♂️
-Hace un año comencé formalmente mis estudios en programación y descubrí un mundo apasionante.
+Hace un tiempo decidí dar un giro en mi vida y comenzar a estudiar programación.
 Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 
 </br>
