@@ -45,4 +45,4 @@ Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerPab&layout=compact)
 </br>
 
-![Profile views](https://gpvc.arturio.dev/PerPab)  <img src="https://img.shields.io/github/followers/PerPab?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://img.shields.io/github/followers/PerPab?label=Follow" style=" float:left, margin-right:10px" />
