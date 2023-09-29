@@ -38,7 +38,7 @@ Actualmente estoy cursando la carrera de Desarrollo de Software.  👨‍🎓
 
 ## Mi Portfolio y mi Linkedin 👇
 ### 1.[Linkedin](https://www.linkedin.com/in/pablo-percara/) 👦 </br>
-### 2.[Portfolio](https://portfolio-pablo-percara.vercel.app/) 📖
+### 2.[Portfolio](https://pablo-percara.vercel.app/) 📖
 </br>
 
 
