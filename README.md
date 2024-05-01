@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/PerPab/PerPab/assets/104698937/bf6efd5d-9fb9-454a-8b03-d85fb6100642" style="border: 10px; height="160" width="160" align="right"></img>
+<img src="https://github.com/PerPab/PerPab/assets/104698937/bf6efd5d-9fb9-454a-8b03-d85fb6100642" style="border="10"; height="160" width="160" align="right"></img>
 
 
 ### Me llamo Pablo y soy Auxiliar en Programación 🙋‍♂️
