@@ -2,7 +2,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/104698937/232256455-bca30fcb-529a-4401-9981-a917ef6c6999.png" height="160" width="160" align="right"></img>
+<img src="[https://user-images.githubusercontent.com/104698937/232256455-bca30fcb-529a-4401-9981-a917ef6c6999.png](https://github.com/account)" height="160" width="160" align="right"></img>
 
 
 ### Me llamo Pablo y soy Auxiliar en Programación 🙋‍♂️
