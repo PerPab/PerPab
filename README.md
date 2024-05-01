@@ -2,7 +2,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/104698937/232256455-bca30fcb-529a-4401-9981-a917ef6c6999.png" height="160" width="160" align="right"></img>
+<img src="![photo_2024-05-01_12-55-55](https://github.com/PerPab/PerPab/assets/104698937/bf6efd5d-9fb9-454a-8b03-d85fb6100642)" height="160" width="160" align="right"></img>
 
 
 ### Me llamo Pablo y soy Auxiliar en Programación 🙋‍♂️
@@ -18,6 +18,7 @@ Actualmente estoy cursando la carrera de Desarrollo de Software y la de Administ
 
   - Editar imágenes.  📸
   
+
   </br>
   
 ## Que me gusta estudiar:
