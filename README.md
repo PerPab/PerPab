@@ -1,7 +1,7 @@
 <h1>Hola a todos, Bienvenidos a mi repositorio...👋</h1>
 
 
-<kbd align="rigth">
+<kbd align="right">
 <img src="https://github.com/PerPab/PerPab/assets/104698937/bf6efd5d-9fb9-454a-8b03-d85fb6100642"  height="160" width="160" align="center"></img>
 </kbd>
 
