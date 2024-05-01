@@ -7,7 +7,8 @@
 
 ### Me llamo Pablo y soy Desarrollador de Software 🙋‍♂️
 Hace un tiempo decidí dar un giro en mi vida y comenzar a estudiar programación.
-Actualmente estoy trabajando como Programador en una empresa de Software y cursando las carreras de Desarrollo de Software y Administración de empresas. 👨‍🎓
+Actualmente estoy trabajando como Programador en una empresa de Software
+y cursando las carreras de Desarrollo de Software y Administración de empresas. 👨‍🎓
 
 </br>
 
