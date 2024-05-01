@@ -2,9 +2,7 @@
 
 
 <style>
-  .image{
-    border-radius: 15px;
-  }
+  img {borer-radius:15px;}
 </style>
 <img class="image" src="https://github.com/PerPab/PerPab/assets/104698937/bf6efd5d-9fb9-454a-8b03-d85fb6100642"  height="160" width="160" align="right"></img>
 
