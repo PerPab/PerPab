@@ -5,7 +5,7 @@
 <img src="https://github.com/PerPab/PerPab/assets/104698937/bf6efd5d-9fb9-454a-8b03-d85fb6100642"  height="160" width="160" align="center"></img>
 </kbd>
 
-### Me llamo Pablo y soy Auxiliar en Programación 🙋‍♂️
+### Me llamo Pablo y soy Desarrollador de Software 🙋‍♂️
 Hace un tiempo decidí dar un giro en mi vida y comenzar a estudiar programación.
 Actualmente estoy cursando la carrera de Desarrollo de Software y la de Administración de empresas. 👨‍🎓
 
